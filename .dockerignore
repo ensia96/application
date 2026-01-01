@@ -1,0 +1,11 @@
+.dockerignore
+.git/
+.github/
+.gitignore
+.prettierrc
+Dockerfile
+README.md
+dist/
+eslint.config.mjs
+node_modules/
+test/
